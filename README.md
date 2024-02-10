@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">I am currently learning C# and Unity to become a game developer and create my own high quality game</h3>
 
-- 🌱 I’m currently learning **С#, Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
